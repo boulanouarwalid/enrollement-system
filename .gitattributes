@@ -5,13 +5,7 @@ src/main/java/** linguist-language=Java -linguist-vendored
 pom.xml linguist-language=Java -linguist-vendored
 *.java linguist-language=Java -linguist-vendored
 
-# Frontend - React/JavaScript
-enrollment-front/** linguist-language=JavaScript -linguist-vendored
-*.jsx linguist-language=JavaScript -linguist-vendored
-*.tsx linguist-language=JavaScript -linguist-vendored
-*.ts linguist-language=JavaScript -linguist-vendored
-package.json linguist-language=JavaScript -linguist-vendored
-package-lock.json linguist-vendored
+
 
 # Hide other files
 *.css linguist-vendored
